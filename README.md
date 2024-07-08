@@ -1,13 +1,13 @@
 # Features:
 
-# Responsive Design: The page is designed to be responsive and adapts to different screen sizes, providing a good user experience on both desktop and mobile devices.
-# Header Section: Includes the Amazon logo, search bar, navigation links, and account options.
-# Main Content: Displays various sections such as deals, recommended products, and category listings.
-# Footer Section: Contains links to different Amazon services and information.
-# Technologies Used:
+Responsive Design: The page is designed to be responsive and adapts to different screen sizes, providing a good user experience on both desktop and mobile devices.
+Header Section: Includes the Amazon logo, search bar, navigation links, and account options.
+Main Content: Displays various sections such as deals, recommended products, and category listings.
+Footer Section: Contains links to different Amazon services and information.
+Technologies Used:
 
-# HTML: For the structure and layout of the page.
-# CSS: For styling and visual presentation, including responsive design.
+HTML: For the structure and layout of the page.
+CSS: For styling and visual presentation, including responsive design.
 Usage:
 
 This project serves as a practice exercise in HTML and CSS and can be used as a reference for understanding how to structure and style web pages similar to a popular e-commerce website.
